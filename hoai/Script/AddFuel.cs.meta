@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 737fa4320314c5b4892a3c58ba99509c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carController: {instanceID: 0}
+  - au: {instanceID: 0}
+  - aumon: {fileID: 8300000, guid: 264cc95b39f7c934d9a0a2d2749fe6b1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
